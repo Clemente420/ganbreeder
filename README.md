@@ -5,6 +5,8 @@
 This code was made in a weekend and hasn't been cleaned up or documented yet. There are also improvements to make to scalability.
 
 Pull request are more than welcome :)
+![demo](https://github.com/Clemente420/ganbreeder/blob/master/TIM%E6%88%AA%E5%9B%BE20200515142401.png "demo")
+
 
 ## How to use
 
